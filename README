@@ -1,0 +1,8 @@
+Tools for plotting Galactic Centre clouds from GBT and ATCA+Parkes.
+Created while in Green Bank, working with Lockman
+
+Includes python notebooks: 
+GBT_GC_clouds.ipynb  -- Does some basic plotting of properties
+find_pos_from_vlsr.ipynb -- Uses assumptions about the cloud's wind to derive the 3-D spatial positions
+
+# N. McClure-Griffiths 1 Sept 2016
